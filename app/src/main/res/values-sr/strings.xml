@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_discover">Istraži</string>
+    <string name="nav_favorites">Sačuvano</string>
+    <string name="nav_settings">Podešavanja</string>
+    <string name="greeting_morning">Dobro jutro</string>
+    <string name="greeting_afternoon">Dobar dan</string>
+    <string name="greeting_evening">Dobro veče</string>
+    <string name="meals_header_title_prefix">Šta danas</string>
+    <string name="meals_header_title_highlight">kuvamo</string>
+    <string name="meals_header_title_suffix">?</string>
+    <string name="meals_surprise_me">Iznenadi me</string>
+    <string name="meals_search_hint">Pretraži 300+ recepata…</string>
+    <string name="meals_section_category">%1$s recepti</string>
+    <string name="meals_section_search">Rezultati za „%1$s”</string>
+    <string name="meals_count_zero">Nema recepata</string>
+    <plurals name="meals_count">
+        <item quantity="one">%1$d recept</item>
+        <item quantity="few">%1$d recepta</item>
+        <item quantity="other">%1$d recepata</item>
+    </plurals>
+    <string name="meals_empty_title">Meni je prazan</string>
+    <string name="meals_empty_subtitle">Probaj drugačiju pretragu ili izaberi drugu kategoriju.</string>
+    <string name="detail_ingredients">Sastojci</string>
+    <plurals name="detail_ingredients_count">
+        <item quantity="one">%1$d sastojak</item>
+        <item quantity="few">%1$d sastojka</item>
+        <item quantity="other">%1$d sastojaka</item>
+    </plurals>
+    <string name="detail_instructions">Priprema</string>
+    <string name="detail_step">Korak %1$d</string>
+    <string name="detail_watch_video">Pogledaj na YouTube-u</string>
+    <string name="detail_source">Originalni recept</string>
+    <string name="review_section_title">Tvoja ocena</string>
+    <string name="review_cta_title">Spremio si ovo?</string>
+    <string name="review_cta_subtitle">Oceni recept i ostavi belešku za sledeći put.</string>
+    <string name="review_cta_button">Oceni recept</string>
+    <string name="review_sheet_title">Kako je ispalo?</string>
+    <string name="review_comment_hint">Šta bi promenio sledeći put?</string>
+    <string name="review_save">Sačuvaj ocenu</string>
+    <string name="review_edit">Izmeni</string>
+    <string name="review_delete">Obriši</string>
+    <string name="review_saved">Ocena je sačuvana</string>
+    <string name="review_deleted">Ocena je obrisana</string>
+    <string name="review_rating_label_1">Nije za mene</string>
+    <string name="review_rating_label_2">Bilo je okej</string>
+    <string name="review_rating_label_3">Prilično dobro</string>
+    <string name="review_rating_label_4">Baš ukusno</string>
+    <string name="review_rating_label_5">Oduševljenje</string>
+    <string name="review_updated_at">Izmenjeno %1$s</string>
+    <string name="favorites_title">Sačuvani recepti</string>
+    <string name="favorites_subtitle_zero">Tvoja kuvarica čeka</string>
+    <plurals name="favorites_subtitle">
+        <item quantity="one">%1$d recept u kuvarici</item>
+        <item quantity="few">%1$d recepta u kuvarici</item>
+        <item quantity="other">%1$d recepata u kuvarici</item>
+    </plurals>
+    <string name="favorites_empty_title">Još nema sačuvanih recepata</string>
+    <string name="favorites_empty_subtitle">Dodirni srce na bilo kom receptu da ga sačuvaš ovde — radi i bez interneta.</string>
+    <string name="favorites_removed">Uklonjeno iz sačuvanih</string>
+    <string name="favorites_undo">Poništi</string>
+    <string name="settings_title">Podešavanja</string>
+    <string name="settings_language">Jezik</string>
+    <string name="settings_language_system">Sistemski</string>
+    <string name="settings_theme">Izgled</string>
+    <string name="settings_theme_system">Sistemski</string>
+    <string name="settings_theme_light">Svetla</string>
+    <string name="settings_theme_dark">Tamna</string>
+    <string name="settings_about">O aplikaciji</string>
+    <string name="settings_about_body">Podatke o receptima obezbeđuje javni TheMealDB API. Ocene i sačuvani recepti čuvaju se samo na ovom uređaju.</string>
+    <string name="error_network">Izgleda da nisi povezan na internet. Proveri konekciju i pokušaj ponovo.</string>
+    <string name="error_server">Kuhinja je trenutno zauzeta. Pokušaj ponovo za trenutak.</string>
+    <string name="error_not_found">Nismo pronašli taj recept.</string>
+    <string name="error_unknown">Nešto nije u redu. Pokušaj ponovo.</string>
+    <string name="action_retry">Pokušaj ponovo</string>
+</resources>
